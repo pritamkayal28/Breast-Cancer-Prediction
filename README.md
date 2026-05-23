@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction
-This is an ML course project.
+A Machine Learning project for predicting breast cancer as benign or malignant using classification algorithms like Logistic Regression, Random Forest, and SVM with high accuracy.
